@@ -1,0 +1,80 @@
+body {
+    background-color: #9b9b9b;
+    padding: 36px;
+}
+
+table {
+    width: 100%;
+    background-color: #fff;
+    border-spacing: 0;
+    border-radius: 0 0 3px 3px;
+    box-shadow: 0 2px 5px #666;
+}
+
+table caption {
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    font-weight: 500;
+    padding: 20px;
+    text-align: left;
+    background-color: #fff;
+    border-radius: 3px 3px 0 0;
+    box-shadow: 0 -2px 5px #666;
+}
+
+table th {
+    font-family: 'Roboto', sans-serif;
+    font-size: 13px;
+    font-weight: 500;
+    text-align: left;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.2);
+}
+
+input {
+    margin-left: 15px;
+    margin-top: 4px;
+}
+
+table tr {
+    height: 43px;
+}
+
+table td {
+    font-family: 'Roboto', sans-serif;
+    font-size: 13px;
+    font-weight: 400;
+    text-align: left;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.2);
+}
+
+table tfoot td {
+    text-align: right;
+    padding-right: 30px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 12px;
+    font-weight: 400;
+    opacity: 54%;
+}
+
+table tfoot img {
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+table tfoot span {
+    margin-left: 13px;
+}
+
+table tfoot select {
+    border: none;
+}
+
+table tr:hover {
+    background-color: #eeeeee;
+}
+
+table td:first-child {
+    padding-right: 20px;
+}
+
+
