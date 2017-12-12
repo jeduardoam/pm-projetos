@@ -1,0 +1,240 @@
+#sec1 {
+    background-image: url(images/fundo-sec1.png);
+    background-repeat: no-repeat;
+    width: 100%;
+    height:828px;
+}
+
+#sec1 h1 {
+    position: absolute;
+    margin-top: 17px;
+    margin-left: 249px;
+    width: 180px;
+    height: 78px;
+    background-image: url(images/logo.png);
+    background-repeat: no-repeat;
+}
+
+#sec1 h1 span {
+    display: none;
+}
+
+#sec1 ul li{
+    font-family: 'Lato', sans-serif;
+    color: #fff;
+    list-style-type: none;
+    display: inline;
+    padding-right: 90px;
+}
+
+#sec1 ul li .botao {
+    font-size: 20px;
+    font-family: 'Lato', sans-serif;
+    font-weight: 300;
+    color: #fff;
+    list-style-type: none;
+    display: inline;
+    padding-right: 90px;
+}
+
+#sec1 ul {
+    position: absolute;
+    margin-left: 570px;
+    margin-top: 40px;
+}
+
+#sec1 h3 {
+    font-size: 50px;
+    font-family: 'Lato', sans-serif;
+    font-weight: 400;
+    color: #fff;
+    position: absolute;
+    margin-top: 225px;
+    margin-left: 318px;
+}
+
+#sec1 p {
+    font-size: 36px;
+    font-family: 'Lato', sans-serif;
+    font-weight: 300;
+    color: #fff;
+    position: absolute;
+    margin-top: 292px;
+    margin-left: 285px;
+}
+
+#sec1 .saiba {
+    position: absolute;
+    margin-top: 400px;
+    margin-left: 250px;
+    width: 460px;
+    height: 88px;
+    background-color: #ff3b80;
+    border-radius: 3px;
+    box-shadow: 0 6px 0 #a32751;
+}
+
+#sec1 .saiba h2 {
+    font-size: 36px;
+    font-family: 'Lato', sans-serif;
+    font-weight: 300;
+    color: #fff;
+    text-align: center;
+    margin-top: 22px;
+}
+
+#sec2 {
+    width: 100%;
+    height: 540px;
+    border-bottom: 3px solid #511099;
+}
+
+#sec2 img {
+    margin-top: 74px;
+    margin-left: 250px;
+}
+
+#sec2 .texto {
+    width: 460px;
+    height: 115px;
+    text-align: left;
+    position: relative;
+    margin-left: 730px;
+    margin-top: -390px;
+}
+
+#sec2 .texto h2 {
+    font-size: 36px;
+    font-family: 'Lato', sans-serif;
+    font-weight: 500;
+}
+
+#sec2 .texto p {
+    font-size: 24px;
+    font-family: 'Lato', sans-serif;
+    font-weight: 300;
+    color: 
+}
+
+#sec2 .quero {
+    position: absolute;
+    margin-top: 120px;
+    margin-left: 810px;
+    width: 290px;
+    height: 73px;
+    background-color: #ff3b80;
+    border-radius: 3px;
+    box-shadow: 0 6px 0 #a32751;
+}
+
+#sec2 .quero h2 {
+    font-size: 30px;
+    font-family: 'Lato', sans-serif;
+    font-weight: 300;
+    color: #fff;
+    text-align: center;
+    margin-top: 22px;
+}
+
+#sec2 hr {
+    margin-top: 325px;
+    height: 3px;
+    border-color: #511099;
+}
+
+#sec3 {
+    width: 100%;
+    height: 400px;
+}
+
+#sec3 img {
+    margin-top: 63px;
+    margin-left: 600px;
+}
+
+#sec3 .texto {
+    text-align: center;
+    width: 870px;
+    margin-left: 240px;
+}
+
+#sec3 .texto p {
+    font-size: 24px;
+    font-family: 'Lato', sans-serif;
+    font-weight: 300;
+}
+
+#sec3 .texto h2 {
+    font-size: 24px;
+    font-family: 'Lato', sans-serif;
+    font-weight: 500;
+}
+
+#sec4 {
+    background-image: url(images/fundo-sec4.png);
+    width: 100%;
+    height: 424px;
+    border-bottom: 3px solid #fff;
+    padding-bottom: 0px;
+}
+
+#sec4 input {
+    position: absolute;
+    background: transparent;
+    border: none;
+    width: 472px;
+    height: 43px;
+    font-weight: 400;
+    color: #4a4a4a;
+    font-size: 24px;
+    opacity: none;
+}
+
+#sec4 .mail {
+    position: absolute;
+    margin-top: 170px;
+    margin-left: 350px;
+    width: 50%;
+    height: 80px;
+    background-color: #fff;
+    border-radius: 3px;
+    opacity: 0.8;
+}
+
+#sec4 .mail form {
+    padding: 20px 40px;
+}
+
+#sec4 .mail form button {
+    position: absolute;
+    margin-left: 490px;
+    width: 90px;
+    height: 43px;
+    border: none;
+    background-color: transparent;
+    background-image: url(images/botao-convite.png);
+    background-repeat: no-repeat;
+}
+
+::-webkit-input-placeholder {
+    margin-top: 0px;
+    font-size: 24px;
+    font-weight: 400;
+    color: #4a4a4a;
+}
+
+#sec5 {
+    height: 91px;
+    text-align: center;
+    background-color: #2a0157;
+}
+
+#sec5 p {
+    margin-top: 0px;
+    color: #fff;
+    font-size: 18px;
+    font-family: 'Lato', sans-serif;
+    font-weight: 500;
+    letter-spacing: 0.5px;
+    padding-top: 38px;
+}
